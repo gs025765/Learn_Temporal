@@ -1,0 +1,6 @@
+INVOICE #INV-2024-002
+Date: January 18, 2024
+Bill To: GlobalTech Solutions, 456 Oak Avenue, San Francisco, CA 94102
+Item: Cloud Storage Plan - 1TB | Unit Price: $350.00
+Item: API Access - Premium Tier | Unit Price: $500.00
+Subtotal: $850.00 | Tax (8%): $68.00 | Grand Total: $918.00

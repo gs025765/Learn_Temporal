@@ -1,0 +1,6 @@
+DELIVERY NOTE #DN-3307
+Shipped By: FastLogistics Co. | Tracking: FL-9948827
+Recipient: DataStream Ltd., 789 Pine Road, Austin, TX 78701
+Package 1: Server Rack Unit - 2U | Weight: 12kg | Fragile: No
+Package 2: Network Switch - 24 Port | Weight: 3kg | Fragile: Yes
+Delivered On: January 25, 2024 | Signed By: M. Patel

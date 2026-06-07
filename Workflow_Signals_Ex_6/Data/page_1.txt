@@ -1,0 +1,6 @@
+INVOICE #INV-2024-001
+Date: January 15, 2024
+Bill To: Acme Corporation, 123 Main Street, New York, NY 10001
+Item: Software License - Annual Subscription
+Quantity: 1 | Unit Price: $1,200.00 | Total: $1,200.00
+Payment Due: February 15, 2024 | Status: Pending

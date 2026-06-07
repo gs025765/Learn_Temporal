@@ -1,0 +1,6 @@
+PURCHASE ORDER #PO-5521
+Vendor: TechSupplies Inc. | Date: January 20, 2024
+Ordered By: John Smith, Procurement Department
+Item 1: Laptop - Model X500 | Qty: 3 | Price: $1,100.00 each
+Item 2: Wireless Mouse - ErgoMax | Qty: 10 | Price: $45.00 each
+Total Order Value: $3,750.00 | Expected Delivery: January 30, 2024

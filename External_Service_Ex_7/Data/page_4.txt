@@ -1,0 +1,7 @@
+RECEIPT #RCP-8843
+Transaction Date: January 22, 2024 | Cashier: Emily R.
+Customer: Robert Johnson | Membership ID: MBR-4421
+Item: Office Chair - Ergonomic Pro | $320.00
+Item: Standing Desk Converter | $189.99
+Item: Monitor Stand - Dual Arm | $75.00
+Total Paid: $584.99 | Payment Method: Corporate Card ending 4892
